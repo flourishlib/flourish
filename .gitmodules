@@ -1,0 +1,24 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:flourishlib/flourish-docs.git
+[submodule "tests"]
+	path = tests
+	url = git@github.com:flourishlib/flourish-tests.git
+[submodule "classes"]
+	path = classes
+	url = git@github.com:flourishlib/flourish-classes.git
+[submodule "build"]
+	path = build
+	url = git@github.com:flourishlib/flourish-build.git
+[submodule "site"]
+	path = site
+	url = git@github.com:flourishlib/flourish-site.git
+[submodule "tests-results"]
+	path = tests-results
+	url = git@github.com:flourishlib/flourish-tests-results.git
+[submodule "phpdoc"]
+	path = phpdoc
+	url = git@github.com:flourishlib/flourish-phpdoc.git
+[submodule "flourishlib.com"]
+	path = flourishlib.com
+	url = git@github.com:flourishlib/flourishlib.com.git
