@@ -22,3 +22,6 @@
 [submodule "flourishlib.com"]
 	path = flourishlib.com
 	url = git@github.com:flourishlib/flourishlib.com.git
+[submodule "wiki-engine"]
+	path = wiki-engine
+	url = git@github.com:flourishlib/wiki-engine
