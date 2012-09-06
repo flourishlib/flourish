@@ -25,3 +25,6 @@
 [submodule "wiki-engine"]
 	path = wiki-engine
 	url = git@github.com:flourishlib/wiki-engine
+[submodule "discussion"]
+	path = discussion
+	url = ./discussion
